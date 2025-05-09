@@ -135,7 +135,8 @@ http://localhost/kanhaiya70-pg-life/index.php
 
   
 
->  *Add screenshots here for homepage, dashboard, property detail page, etc.*
+![homepage](img/ss/Picture1.png)
+![Property](img/ss/Picture2.png)
 
   
 
